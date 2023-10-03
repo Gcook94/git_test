@@ -2,3 +2,4 @@
 
 Hello Odin!
 Adding more text to test the staging process
+Commit message test
